@@ -1,0 +1,48 @@
+# Benemérita Universidad Autónoma de Puebla
+## Facultad de Ciencias Físico Matemáticas
+###Licenciatura en Actuaría
+#### Programación Actuarial III
+
+##### Calificaciones
+
+Primer Semestre:
+
+* Matemáticas Básicas: 6
+* Problemas de Matemáticas Básicas: 6
+* Programación Actuarial I: 8
+* DHPC: 8
+* Conceptos de Cálculo: 10
+* Introducción a la Profesión Actuarial: 9
+
+Segundo Semestre:
+
+* Cálculo Diferencial: 8
+* Teoría del Interés I: 6
+* Microeconomía: 9
+* DHTIC: 10
+
+Tercer semestre:
+
+* Contabilidad General: 9
+* Teoría del Interés II: 7
+* Cálculo Integral: 7
+* Teoría de ecuaciones: 10
+
+Cuarto Semestre:
+
+* Programación Actuarial II: 8
+* Sistema Financiero Mexicano: 9
+* Cálculo Diferencial en Varias Variables: 9
+* Ecuaciones Diferenciales I: 10
+* Álgebra Lineal I: 8
+* Probabilidad I: 7
+
+Quinto Semestre:
+
+* Demografía I: 8
+* Formación Humana y Social: 9
+* Programación Lineal: 8
+* Probabilidad II: 7
+
+#####Promedio actual: 8.16 
+
